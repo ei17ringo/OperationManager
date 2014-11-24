@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>OperationList</key>
+	<array>
+		<dict>
+			<key>No</key>
+			<integer>0</integer>
+			<key>Name</key>
+			<string>電話対応</string>
+			<key>Img</key>
+			<string>business1.png</string>
+			<key>HowToList</key>
+			<array>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>1</integer>
+					<key>Name</key>
+					<string>ミラーリング効果</string>
+					<key>Content</key>
+					<string>ミラーリング効果とは、好感を寄せている相手のしぐさ、表情あるいは動作を無意識に真似てしまったり、 自分と同じような仕草や表情を行う相手に好感を抱くような効果のことです。 『ミラー効果』、『同調効果』あるいは『姿勢反響』と呼ばれることもあります。</string>
+				</dict>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>2</integer>
+					<key>Name</key>
+					<string>単純接触効果</string>
+					<key>Content</key>
+					<string>単純接触効果とは、繰り返し接すると好意度や印象が高まるという効果。1968年、アメリカの心理学者ロバート・ザイアンスが論文にまとめ知られるようになった。
+ザイアンスの単純接触効果、ザイアンスの法則とも呼ばれる。</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>0</integer>
+			<key>Name</key>
+			<string>挨拶時</string>
+			<key>Img</key>
+			<string>business2.png</string>
+			<key>HowToList</key>
+			<array>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>3</integer>
+					<key>Name</key>
+					<string>フットインザドア</string>
+					<key>Content</key>
+					<string>フットインザドアとは、交渉や依頼の場面で、本命の要求を通すために、まず簡単な要求からスタートし、段階的に要求レベルを上げる方法。
+人間心理を利用した交渉テクニックの1つ。
+一般に人間は、いったんある立場をとると、一貫してその立場をとっているほうが居心地がいい、また、他人から一貫性のある人間と見られていたい(ころころ意見が変わる人間とは見られたくない)という心理がある。
+フットインザドアテクニックは、この心理を交渉に利用したものである。うまく相手の琴線に触れるような規範や価値観(社会的善につながるものであることが多い)を発見できれば、それを足場にかなりの要望を認めてもらうことも可能となる。</string>
+				</dict>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>4</integer>
+					<key>Name</key>
+					<string>ドアインザフェイス</string>
+					<key>Content</key>
+					<string>ドアインザフェイスとは、本命の要求を通すために、まず過大な要求を提示し、相手に断られたら小さな(本命の)要求を出す方法。
+人間心理を利用した交渉テクニックの1つ。
+
+一般に人間には、借りができると、そのままでは気持ちが悪いため、お返しをしなくてはならないと考える傾向がある(返報性の心理)。ドアインザフェイスはこれを交渉に応用したものだ。</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>0</integer>
+			<key>Name</key>
+			<string>商品提案</string>
+			<key>Img</key>
+			<string>business3.png</string>
+			<key>HowToList</key>
+			<array>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>5</integer>
+					<key>Name</key>
+					<string>返報性の法則</string>
+					<key>Content</key>
+					<string>返報生の法則とは、「好意には好意で報いる」「受けた恩は必ず返す」「そっちがそう来るなら自分も・・」といった行動に見られる、もらいっぱなしの状態を居心地悪く感じる心理の事。お返しをせずには居られない心の状態。
+『好意の返報性』や『譲歩の返報性』、『自己開示の返報性』などがあります。</string>
+				</dict>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>6</integer>
+					<key>Name</key>
+					<string>ローボールテクニック</string>
+					<key>Content</key>
+					<string>ローボールテクニックとは、説得技法の一つとされる手法で、まずは魅力的な条件で相手が要求を飲む決断を促し、その後に不利な条件を提示する手法のこと。
+ローボールテクニックとは、説得技法の一つとされる手法で、まずは魅力的な条件で相手が要求を飲む決断を促し、その後に不利な条件を提示する手法のこと。
+ローボールテクニックとは、説得技法の一つとされる手法で、まずは魅力的な条件で相手が要求を飲む決断を促し、その後に不利な条件を提示する手法のこと。</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>0</integer>
+			<key>Name</key>
+			<string>アウト返し</string>
+			<key>Img</key>
+			<string>business4.png</string>
+			<key>HowToList</key>
+			<array>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>7</integer>
+					<key>Name</key>
+					<string>二者択一法</string>
+					<key>Content</key>
+					<string>二者択一法とは、　「○○をお探しですか？今、AとBの二種類がありますが、どちらがお好みですか？」というように、買うこと
+　を前提とした質問を、2者択一の形で選択をさせ、買う選択をする際に相手が断りにくくする方法です。</string>
+				</dict>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>8</integer>
+					<key>Name</key>
+					<string>バックトラッキング</string>
+					<key>Content</key>
+					<string>バックトラッキングとは、相手が言った言葉をそのまま言い返すことです。</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>0</integer>
+			<key>Name</key>
+			<string>価格交渉</string>
+			<key>Img</key>
+			<string>business5.png</string>
+			<key>HowToList</key>
+			<array>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>9</integer>
+					<key>Name</key>
+					<string>希少性の原理</string>
+					<key>Content</key>
+					<string>希少性の原理とは、いつでも、何処でも手に入るものは価値が低く、数が少ないものは価値が高いと考える、経済・生活行為の中で人間が身に付けている共通認識。常識。</string>
+				</dict>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>10</integer>
+					<key>Name</key>
+					<string>一貫性の法則</string>
+					<key>Content</key>
+					<string>一貫性の法則とは、人は自身の行動、発言、態度、信念などに対して一貫したものとしたいという心理が働く。この心理を「一貫性の原理」と呼ぶ。この心理の根底には、一貫性を保つことは社会生活において他者から高い評価を受けるという考え、複雑な要因の絡み合った社会生活での将来的な行動決定においてより簡易に行動を決定することができるなどの要因があるといわれる。</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>0</integer>
+			<key>Name</key>
+			<string>契約書記入</string>
+			<key>Img</key>
+			<string>business6.png</string>
+			<key>HowToList</key>
+			<array>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>11</integer>
+					<key>Name</key>
+					<string>第三者話法</string>
+					<key>Content</key>
+					<string>第三者話法とは、相手でもあなたでもなく、客観的な第三者の弁を活用する方法。
+
+この効果は絶大である。事例やお客様の声、
+
+口コミなどがビジネスで多用されていることをみれば、
+
+お分かり頂けるだろう。
+
+いま、利用していないとすればただちに利用することを考えるべきだろう。</string>
+				</dict>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>12</integer>
+					<key>Name</key>
+					<string>バンドワゴン効果</string>
+					<key>Content</key>
+					<string>バンドワゴン効果とは、特定の選択肢が多数に受け入れられている、
+
+流行しているという情報が流れることで、
+
+その選択への支持が一層強くなることを指す。事例など、これに該当する。</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>0</integer>
+			<key>Name</key>
+			<string>クロージング</string>
+			<key>Img</key>
+			<string>business9.png</string>
+			<key>HowToList</key>
+			<array>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>13</integer>
+					<key>Name</key>
+					<string>認知不協和</string>
+					<key>Content</key>
+					<string>認知不協和とは、個人のもつ二つの情報の間に不一致が生じること。その際，不一致を低減する行動が起こる。例えば，愛煙家が喫煙は肺癌の原因になるという情報に接すると，それを否定するか禁煙するかによって不一致を低減しようとする類。</string>
+				</dict>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>14</integer>
+					<key>Name</key>
+					<string>ハロー効果</string>
+					<key>Content</key>
+					<string>ハロー効果とは、ある対象を評価するときに、目立ちやすい特徴に引きずられて他の特徴についての評価が歪められる現象のこと。光背効果、後光効果とも呼ぶ。
+心理学の世界では、認知バイアスと呼ばれるものの1つである。</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>No</key>
+			<integer>0</integer>
+			<key>Name</key>
+			<string>帰り際の対応</string>
+			<key>Img</key>
+			<string>business8.png</string>
+			<key>HowToList</key>
+			<array>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>15</integer>
+					<key>Name</key>
+					<string>社会的証明</string>
+					<key>Content</key>
+					<string>社会的証明とは、他人の行動を参考にして自分の行動を決める傾向があります。特に、状況が不明確で自分で判断できないような場合には、周囲の人たちの行動を正しいものと考え、自分がどのように振舞ったらよいかを決める重要な手がかりにします。これを社会的証明の原理という。</string>
+				</dict>
+				<dict>
+					<key>favorite_flag</key>
+					<false/>
+					<key>No</key>
+					<integer>16</integer>
+					<key>Name</key>
+					<string>メラビアンの法則</string>
+					<key>Content</key>
+					<string>メラビアンの法則とは、アメリカUCLA大学の心理学者/アルバート・メラビアンが1971年に提唱した概念。人物の第一印象は初めて会った時の3〜5秒で決まり、またその情報のほとんどを「視覚情報」から得ていると言う概念。メラビアンが提唱する概念において、初対面の人物を認識する割合は、「見た目/表情/しぐさ/視線等」の視覚情報が55% 、「声の質/話す速さ/声の大きさ/口調等」の聴覚情報が38%、「言葉そのものの意味/話の内容等。」の言語情報が7%と言われている。</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

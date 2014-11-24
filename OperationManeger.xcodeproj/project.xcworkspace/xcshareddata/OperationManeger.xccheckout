@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DC0B8A2C-F6E8-4093-8835-AF8ECA119C72</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OperationManeger</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C9C314C0D3F3D5AA80DFDB48E56BF4E36A7925F9</key>
+		<string>https://github.com/Ryohei1218/OperationManeger.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OperationManeger.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C9C314C0D3F3D5AA80DFDB48E56BF4E36A7925F9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Ryohei1218/OperationManeger.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C9C314C0D3F3D5AA80DFDB48E56BF4E36A7925F9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C9C314C0D3F3D5AA80DFDB48E56BF4E36A7925F9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OperationManeger</string>
+		</dict>
+	</array>
+</dict>
+</plist>
