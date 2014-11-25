@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6245" systemVersion="14A389" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" initialViewController="wpD-e3-tIW">
     <dependencies>
-        <deployment defaultVersion="1808" identifier="iOS"/>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
     </dependencies>
     <scenes>
@@ -118,9 +117,27 @@
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZB8-no-3zg">
-                                <rect key="frame" x="20" y="82" width="280" height="457"/>
+                                <rect key="frame" x="20" y="82" width="280" height="185"/>
                                 <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="calibratedRGB"/>
                                 <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EKe-mM-hRv">
+                                <rect key="frame" x="20" y="275" width="44" height="30"/>
+                                <state key="normal" title="Memo">
+                                    <color key="titleShadowColor" white="0.5" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <connections>
+                                    <action selector="tapMemo:" destination="SOI-Ci-jR4" eventType="touchUpInside" id="xzw-eq-QDC"/>
+                                </connections>
+                            </button>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="noimage.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="Sac-JY-RGB">
+                                <rect key="frame" x="16" y="306" width="70" height="70"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="クライアントの状況などメモできます" translatesAutoresizingMaskIntoConstraints="NO" id="Haf-Sm-jfm">
+                                <rect key="frame" x="94" y="275" width="217" height="260"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
@@ -129,6 +146,8 @@
                     </view>
                     <connections>
                         <outlet property="contentTextVew" destination="ZB8-no-3zg" id="FwH-Gk-zoO"/>
+                        <outlet property="memoButton" destination="EKe-mM-hRv" id="KIv-EL-PC6"/>
+                        <outlet property="memoThumb" destination="Sac-JY-RGB" id="0Es-wj-oDU"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Lar-J8-nJE" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -154,6 +173,9 @@
             <point key="canvasLocation" x="87" y="104"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="noimage.jpeg" width="259" height="194"/>
+    </resources>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
         <simulatedOrientationMetrics key="orientation"/>

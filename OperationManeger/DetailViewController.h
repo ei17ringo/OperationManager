@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <AssetsLibrary/AssetsLibrary.h>
 
-@interface DetailViewController : UIViewController
+@interface DetailViewController : UIViewController<UIActionSheetDelegate,UIImagePickerControllerDelegate>
 
 @property(nonatomic,assign)NSInteger selectnum;
 @property (weak, nonatomic) IBOutlet UILabel *ProgramName;
@@ -17,7 +18,10 @@
 @property (nonatomic,strong) NSString *content;
 @property (weak, nonatomic) IBOutlet UITextView *contentTextVew;
 @property (weak, nonatomic) IBOutlet UIButton *tapButton;
+@property (weak, nonatomic) IBOutlet UIButton *memoButton;
+- (IBAction)tapMemo:(id)sender;
 
+@property (weak, nonatomic) IBOutlet UIImageView *memoThumb;
 
 
 

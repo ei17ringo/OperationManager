@@ -10,24 +10,36 @@
 	<string>OperationManeger</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
+		<key>5DA9A923BFF51F13D9C6E92C093ADE0E388F8DCD</key>
+		<string>https://github.com/ei17ringo/OperationManager.git</string>
 		<key>C9C314C0D3F3D5AA80DFDB48E56BF4E36A7925F9</key>
 		<string>https://github.com/Ryohei1218/OperationManeger.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>OperationManeger.xcodeproj/project.xcworkspace</string>
+	<string>OperationManeger.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>C9C314C0D3F3D5AA80DFDB48E56BF4E36A7925F9</key>
+		<key>5DA9A923BFF51F13D9C6E92C093ADE0E388F8DCD</key>
 		<string>../..</string>
+		<key>C9C314C0D3F3D5AA80DFDB48E56BF4E36A7925F9</key>
+		<string>../../../OperationManeger</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/Ryohei1218/OperationManeger.git</string>
+	<string>https://github.com/ei17ringo/OperationManager.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>C9C314C0D3F3D5AA80DFDB48E56BF4E36A7925F9</string>
+	<string>5DA9A923BFF51F13D9C6E92C093ADE0E388F8DCD</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5DA9A923BFF51F13D9C6E92C093ADE0E388F8DCD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OperationManager</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>

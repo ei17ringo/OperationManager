@@ -163,8 +163,10 @@ return _TitileList.count;
     DetailViewController *dvc=[self.storyboard instantiateViewControllerWithIdentifier:@"DetailViewController"];
     
     //行番号を保存
+    //modified by ichinohe HowToListのNoを保存
+    //dvc.selectnum=indexPath.row;
+    dvc.selectnum=[[_TitileList[indexPath.row] objectForKey:@"No"] intValue];
     
-    dvc.selectnum=indexPath.row;
     
     // セルの選択状態解除
     [tableView deselectRowAtIndexPath:indexPath animated:YES];

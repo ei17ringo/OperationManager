@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1BACE5921A2327820021755C /* noimage.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 1BACE5911A2327820021755C /* noimage.jpeg */; };
 		4A21097919906F1800CCBABE /* OperationList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4A21097819906F1800CCBABE /* OperationList.plist */; };
 		4A26DBC919CBCA8C00E95BCA /* AppIcon29x29.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A26DBC519CBCA8C00E95BCA /* AppIcon29x29.png */; };
 		4A26DBCA19CBCA8C00E95BCA /* AppIcon29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 4A26DBC619CBCA8C00E95BCA /* AppIcon29x29@2x.png */; };
@@ -54,6 +55,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1BACE5911A2327820021755C /* noimage.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = noimage.jpeg; sourceTree = "<group>"; };
 		4A21097819906F1800CCBABE /* OperationList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = OperationList.plist; sourceTree = "<group>"; };
 		4A26DBC519CBCA8C00E95BCA /* AppIcon29x29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon29x29.png; sourceTree = "<group>"; };
 		4A26DBC619CBCA8C00E95BCA /* AppIcon29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon29x29@2x.png"; sourceTree = "<group>"; };
@@ -137,6 +139,7 @@
 		4A2E60CC19B575B700819469 /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				1BACE5911A2327820021755C /* noimage.jpeg */,
 				4A74DD0219C15C0A00DDE8D1 /* business9.png */,
 				4A74DD0019C14FE800DDE8D1 /* business8.png */,
 				4A74DCFE19C149DA00DDE8D1 /* business7.png */,
@@ -284,9 +287,10 @@
 				ORGANIZATIONNAME = "Ryohei Terakata";
 				TargetAttributes = {
 					4AC3F48B198B317400FB0AE4 = {
-						DevelopmentTeam = UQVRZ45PAX;
+						DevelopmentTeam = NF6KLZDSZ2;
 					};
 					4AC3F4AC198B317400FB0AE4 = {
+						DevelopmentTeam = NF6KLZDSZ2;
 						TestTargetID = 4AC3F48B198B317400FB0AE4;
 					};
 				};
@@ -331,6 +335,7 @@
 				4A26DBC919CBCA8C00E95BCA /* AppIcon29x29.png in Resources */,
 				4A26DBCB19CBCA8C00E95BCA /* AppIcon60x60.png in Resources */,
 				4A74DD0319C15C0A00DDE8D1 /* business9.png in Resources */,
+				1BACE5921A2327820021755C /* noimage.jpeg in Resources */,
 				4A74DD0119C14FE800DDE8D1 /* business8.png in Resources */,
 				4A74DCF119C130A200DDE8D1 /* 640x960.png in Resources */,
 				4A74DCF919C149C000DDE8D1 /* business4.png in Resources */,
@@ -489,7 +494,7 @@
 				GCC_PREFIX_HEADER = "OperationManeger/OperationManeger-Prefix.pch";
 				INFOPLIST_FILE = "OperationManeger/OperationManeger-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "822dcc23-8cca-4ecd-8099-83661cbc4384";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -499,13 +504,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Ryohei Terakata (UQVRZ45PAX)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "OperationManeger/OperationManeger-Prefix.pch";
 				INFOPLIST_FILE = "OperationManeger/OperationManeger-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "822dcc23-8cca-4ecd-8099-83661cbc4384";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
